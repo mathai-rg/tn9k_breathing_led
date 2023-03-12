@@ -10,7 +10,7 @@ IO_PORT "clk" IO_TYPE=LVCMOS33 PULL_MODE=UP;
 IO_LOC "rstn" 3;
 IO_PORT "rstn" PULL_MODE=UP;
 
-//TODO
+//breath_out
 //uses onboard led connected to pin 10
-IO_LOC "TODO" 10;
-IO_PORT "TODO" PULL_MODE=UP;
+IO_LOC "breath_out" 10;
+IO_PORT "breath_out" PULL_MODE=UP;
